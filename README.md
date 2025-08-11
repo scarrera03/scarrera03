@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 I am a Data Science and Computing graduate with First Class Honours, passionate about applying AI and data-driven solutions to solve real-world problems.  
 I have professional experience as a Project Manager in SaaS and digital transformation projects, combined with hands-on skills in Python, R, SQL, Flask, and AWS.  
 My background allows me to bridge the gap between technical development and business needs, delivering solutions that are both effective and user-focused.
@@ -29,7 +29,7 @@ Project Management • Agile (Scrum/Kanban) • Jira • Notion
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -42,6 +42,6 @@ Project Management • Agile (Scrum/Kanban) • Jira • Notion
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)  
-[![Email](https://img.shields.io/badge/Email-silvinacarrera2%40gmail.com-red)](mailto:silvinacarrera2@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-silvinacarrera2%40gmail.com-red)](mailto:silvinacarrera87@gmail.com)  
