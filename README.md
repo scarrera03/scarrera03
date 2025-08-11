@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Silvina Carrera
+# 👋 Hello World! I'm Silvina Carrera
 
 🎓 **BSc Data Science and Computing (First Class Honours)** – Birkbeck, University of London  
 💻 Data Science | Machine Learning | AI | Cloud Computing | Project Management  
