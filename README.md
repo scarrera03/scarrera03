@@ -44,4 +44,4 @@ Project Management • Agile (Scrum/Kanban) • Jira • Notion
 
 ## Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)  
-[![Email](https://img.shields.io/badge/Email-silvinacarrera2%40gmail.com-red)](mailto:silvinacarrera87@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-silvinacarrera87%40gmail.com-red)](mailto:silvinacarrera87@gmail.com)  
