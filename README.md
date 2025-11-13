@@ -38,7 +38,8 @@ Project Management • Agile (Scrum/Kanban) • Jira • Notion
 | [**Local LLM Agent**](https://github.com/scarrera03/llm-agent-local) | Local conversational agent with reasoning capabilities using Mistral 7B. | Python, LM Studio |
 | [**AWS Troubleshooting Demo**](https://github.com/scarrera03/aws-troubleshooting-demo) | Scripts and workflows for common AWS troubleshooting scenarios. | Bash, AWS CLI |
 | [**RAG Agent Local**](https://github.com/scarrera03/rag-agent-local) | Internal knowledge base Q&A system using RAG architecture. | Python, LangChain, Mistral 7B |
-| [**Project Case Study – CRM Migration**](https://github.com/scarrera03/project-case-study-crm-migration) | End-to-end project plan for CRM system migration. | Project Management, SaaS |
+| [**Project Case Study – CRM Migration**](https://github.com/scarrera03/project-case-study-crm-migration) | End-to-end project plan for CRM system migration. | Project Management, SaaS 
+| [**Merge Flat Metrics File Generator**](https://github.com/scarrera03/merge-flat-metrics-file-generator) | Python utility to merge and flatten Excel metric files into clean CSV output. | Python, Pandas
 
 ---
 
